@@ -24,7 +24,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://sutter-network-visualizer.netlify.app/",
   "display": "standalone",
   "theme_color": "#22d3ee",
   "background_color": "#000000"
