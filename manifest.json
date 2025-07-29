@@ -1,25 +1,25 @@
 {
   "short_name": "Sutter Network",
-  "name": "Sutter Network Visualizer",
+  "name": "Sutter Network Visualizer", 
   "description": "Ground-based Observatory Planning System",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://sutter-network-visualizer.netlify.app/favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "apple-touch-icon.png",
+      "src": "https://sutter-network-visualizer.netlify.app/apple-touch-icon.png",
       "type": "image/png",
       "sizes": "180x180"
     },
     {
-      "src": "web-app-manifest-192.png",
+      "src": "https://sutter-network-visualizer.netlify.app/web-app-manifest-192.png",
       "type": "image/png", 
       "sizes": "192x192"
     },
     {
-      "src": "web-app-manifest-512.png",
+      "src": "https://sutter-network-visualizer.netlify.app/web-app-manifest-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
